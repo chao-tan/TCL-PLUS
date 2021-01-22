@@ -14,7 +14,7 @@ Our TCLD_AD dataset is available for download at [TianYiCloud(4.5GB)](https://cl
 You can get the TCLD_AD dataset at any time but only for scientific research. 
 At the same time, please cite our work when you use the TCLD_AD dataset.
 
-Our model is highly dependent on [TCLNet](https://这里放置TCLNet的github链接). You can implement our model by simply modifying [TCLNet](https://这里放置TCLNet的github链接).
+Our model is highly dependent on [TCLNet](https://github.com/chao-tan/TCLNet). You can implement our model by simply modifying [TCLNet](https://github.com/chao-tan/TCLNet).
 
 ## Citation
 
